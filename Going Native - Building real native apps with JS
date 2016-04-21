@@ -1,0 +1,3 @@
+For years libraries have been trying to provide you ways to use your existing web application code in a Mobile app. These hybrid apps always felt clunky, sluggish, and like they really didn't belong within their host ecosystem.
+
+React Native provides a way to develop real native applications, and gives you a mechanism to leverage you existing web application code in a meaningful way. See how it will allow you do speed your development cycle, reduce the amount of disparate code you have to develop, and delight your users.
